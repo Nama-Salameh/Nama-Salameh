@@ -1,5 +1,10 @@
-## Hi there 👋
-
+### Hi there 👋
+Motivated Software Engineering graduate with strong programming skills, adept at problem-solving, and quick to learn. Effective communicator and collaborator, passionate about innovative software solutions and staying current with industry trends. Demonstrated proficiency as a Frontend developer.
+- 🔭 Software Engineer | Frontend Developer
+- 💬 You can find me on <a href="https://www.linkedin.com/in/nama-salameh/">LinkedIn</a>
+- 📫 Reach me on nama.salameh@gmail.com
+<!-- - ⚡ Check out my [Resume](https://docs.google.com/document/d/13gqVn5uPjPx10lk-Urgq6SPkvSoVIW45zHSS10CZNcc/edit?usp=sharing) -->
+  
 <!--
 **Nama-Salameh/Nama-Salameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

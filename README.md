@@ -1,22 +1,19 @@
-### Hi there 👋
-Motivated Software Engineering graduate with strong programming skills, adept at problem-solving, and quick to learn. Effective communicator and collaborator, passionate about innovative software solutions and staying current with industry trends. Demonstrated proficiency as a Frontend developer.
-- 🔭 Software Engineer | Frontend Developer
-- 💬 You can find me on <a href="https://www.linkedin.com/in/nama-salameh/">LinkedIn</a>
-- 📫 Reach me on nama.salameh@gmail.com
-<!-- - ⚡ Check out my [Resume](https://docs.google.com/document/d/13gqVn5uPjPx10lk-Urgq6SPkvSoVIW45zHSS10CZNcc/edit?usp=sharing) -->
-  
-<!--
-**Nama-Salameh/Nama-Salameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nama' Salameh 👋
 
-Here are some ideas to get you started:
+I'm a Software Engineering graduate from An-Najah National University, interested in building practical and user-friendly software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in frontend development using Angular and React, along with backend development using Node.js, TypeScript, and PostgreSQL. I enjoy learning new technologies, solving problems, and improving my development skills.
 
+### 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, Java, C#
+- **Frontend:** Angular, React, Next.js, HTML, CSS, Sass
+- **Backend:** Node.js, REST APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, Docker, GitHub Actions, Jira
+
+### 🌐 Find Me Online
+
+- **Portfolio:** [nama-salameh-portfolio.vercel.app](https://nama-salameh-portfolio.vercel.app/)
+- **LinkedIn:** [Nama' Salameh](https://www.linkedin.com/in/nama-salameh/)
+- **Email:** [nama.salameh@gmail.com](mailto:nama.salameh@gmail.com)

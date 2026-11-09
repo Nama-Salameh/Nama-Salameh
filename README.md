@@ -118,38 +118,6 @@ A university team project focused on a carpooling mobile application.
 
 ---
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nama-Salameh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama-Salameh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nama-Salameh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nama-Salameh/Nama-Salameh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 <!-- ===================== CONTACT ===================== -->
 
 ## 📫 Let's Connect
